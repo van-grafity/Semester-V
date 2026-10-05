@@ -1,0 +1,85 @@
+Berikut adalah rangkuman dan susunan instruksi tugas **Upload Tugas Tim Bersama (Pameran TRM Semester 5)** yang telah dirapikan agar mudah dipahami dan dijadikan panduan kerja tim:
+
+---
+
+# 📌 Panduan & Instruksi Tugas Tim Bersama: Pameran TRM Semester 5
+
+### 📅 Informasi Tugas
+
+* **Tanggal Dibuka:** Selasa, 29 September 2026, 00:00 WIB
+* **Tenggat Waktu (Due Date):** Jumat, 30 Oktober 2026, 00:00 WIB
+* **Peserta:** Seluruh Mahasiswa TRM Semester 5 (Wajib Hadir & Aktif)
+
+---
+
+## 🎯 Ringkasan Kegiatan & Rapat Rutin (Minggu 4–7)
+
+Kehadiran dan keaktifan mahasiswa dalam rapat dari **Minggu 4 hingga Minggu 7** akan dicatat sebagai **absensi resmi**.
+
+### 1. Rapat Minggu 4: Pembentukan Struktur Organisasi
+
+* **Agenda:**
+* Pemilihan **Ketua Pelaksana Pameran (Project Manager)**.
+* Penentuan **PIC / Ketua Divisi** dan **Anggota Divisi**.
+
+
+* **Ketentuan:** Setiap mahasiswa **wajib** memiliki peran/posisi tugas masing-masing.
+* Struktur Divisi Pameran:
+
+
+* **Ketua Pelaksana / Project Manager:** Mengkoordinasikan seluruh divisi dan mengambil keputusan operasional.
+
+
+* **Divisi Konsep & Kuratorial:** Menentukan tema, karya, konten, dan narasi.
+
+
+* **Divisi Desain & Produksi:** Mengurus layout, booth, dekorasi, dan instalasi.
+
+
+* **Divisi Teknologi:** Menyiapkan perangkat multimedia dan dukungan teknis.
+
+
+* **Divisi Keuangan & Sponsorship:** Menyusun RAB, pendanaan, dan kemitraan.
+
+
+* **Divisi Publikasi & Humas:** Mengelola promosi, media, dan komunikasi.
+
+
+* **Divisi Operasional:** Mengatur registrasi, keamanan, dan pelayanan.
+
+
+
+
+
+---
+
+### 2. Rapat Minggu 5–7: Penentuan Tema & Komponen Pameran
+
+Membahas dan menetapkan detail 10 komponen kebutuhan pameran:
+
+| No | Komponen Kebutuhan | Detail Bahasan |
+| --- | --- | --- |
+| **1** | **Perencanaan Konsep** | Ide, tema, tujuan, konsep acara, target audiens, dan pesan pameran. |
+| **2** | **Sumber Daya Manusia** | Pembagian porsi kerja Ketua Pelaksana, Kurator, Tim Desain, Teknis, Pemasaran, Keuangan, dan Operasional. |
+| **3** | **Lokasi & Tata Ruang** | Pemilihan venue, pembuatan denah, layout booth, alur pengunjung, aksesibilitas, dan area evakuasi. |
+| **4** | **Sarana & Prasarana** | Kebutuhan booth, meja, kursi, panggung, kelistrikan, jaringan internet, lighting, dan sound system. |
+| **5** | **Teknologi Pameran** | Kebutuhan LED screen, proyektor, layar interaktif, dan sistem registrasi digital. |
+| **6** | **Keuangan** | Penyusunan Rencana Anggaran Belanja (RAB), sumber pendanaan, sponsorship, dan pengendalian biaya. |
+| **7** | **Perizinan & Keselamatan** | Izin venue, izin keramaian (jika diperlukan), keamanan, kesehatan, serta Keselamatan & Kesehatan Kerja (K3). |
+| **8** | **Pemasaran & Publikasi** | Identitas visual, pengelolaan media sosial, pembuatan poster/undangan, media partner, dan strategi promosi. |
+| **9** | **Operasional Acara** | Alur registrasi, penerimaan tamu, jadwal/rundown kegiatan, logistik, kebersihan, dan pelayanan pengunjung. |
+| **10** | **Evaluasi** | Pengumpulan data pengunjung, kepuasan acara, dokumentasi, laporan keuangan, dan evaluasi keberhasilan. |
+
+---
+
+## 📝 Tugas Minggu Tenang & Ketentuan Pengumpulan
+
+Pada **Minggu Tenang**, Ketua Pelaksana berkewajiban mengumpulkan laporan hasil rapat dan evaluasi kinerja tim.
+
+* **Pengunggah:** Ketua Pelaksana (Project Manager).
+* **Format File:** `.pdf` (Format dokumen bebas).
+* **Penamaan File:** `Judul Tema Pameran.pdf`
+* **Isi Laporan:**
+1. Hasil keputusan konsep pameran & rincian 10 komponen pameran.
+2. Laporan evaluasi kinerja tim (cantumkan nama anggota yang tidak aktif, jika ada).
+3. Rekap absensi mingguan mahasiswa (Minggu 4 s.d. Minggu 7).
